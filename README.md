@@ -38,7 +38,7 @@ CREATE TABLE aluno(
 
 ## Screenshot
 
-None
+![Crud](https://github.com/mth-gama/CRUD_Cadastro_de_Aluno/assets/68973867/9b409e85-c47a-4c81-a9b2-f4f5e44476a4)
 
 ## Author
 
