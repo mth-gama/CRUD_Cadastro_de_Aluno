@@ -305,8 +305,8 @@ class crud():
                     # Conectar ao banco de dados
                     conexao = mysql.connector.connect(
                         host='localhost',
-                        user='root',
-                        password='123root.',
+                        user='SEU_USUARIO',
+                        password='SUA_SENHA',
                         database='crud'
                     )
                     
